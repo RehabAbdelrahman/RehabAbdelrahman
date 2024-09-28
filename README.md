@@ -16,7 +16,7 @@
 - 📞 Phone: [+201063254929](tel:+201063254929)
 - 📧 Email: [rehabelhag.business@gmail.com](mailto:rehabelhag.business@gmail.com)
 - 💼 LinkedIn: [Rehab Abdelrahman](https://www.linkedin.com/in/rehab-abdelrahman-072b1a323)
-
+  
 ---
 
 ## 🎓 Education
@@ -80,5 +80,8 @@
 ---
 
 ## 🎯 Let's Connect
-I'm always excited to connect with other professionals and explore opportunities to collaborate. Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/rehab-abdelrahman-072b1a323)!
+I'm always excited to connect with other professionals and explore opportunities to collaborate. Feel free to reach out to me via:
+- 🔗 [LinkedIn](https://www.linkedin.com/in/rehab-abdelrahman-072b1a323)  
+- 📧 [rehabelhag.business@gmail.com](mailto:rehabelhag.business@gmail.com)  
+- 💻 [GitHub](https://github.com/RehabAbdelrahman)
 
