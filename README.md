@@ -85,4 +85,4 @@ I'm always excited to connect with other professionals and explore opportunities
 - 📧 [rehabelhag.business@gmail.com](mailto:rehabelhag.business@gmail.com)  
 - 💻 [GitHub](https://github.com/RehabAbdelrahman)
 
-
+<img src="https://raw.githubusercontent.com/RehabAbdelrahman/RehabAbdelrahman/output/snake.svg" alt="Snake animation" />
