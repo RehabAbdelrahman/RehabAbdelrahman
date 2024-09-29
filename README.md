@@ -56,6 +56,12 @@
 - Handled course registrations, provided exceptional customer service, and supported instructors with classroom setup.
 
 ---
+### 📊  Projects
+** [sales-Excel-Project] (https://github.com/RehabAbdelrahman/Sales-Excel-Project) **
+- This project provides a detailed analysis of sales data using Excel and Power Query.
+
+
+---
 
 ## 🔧 Key Skills
 - 📊 Data Analytics
