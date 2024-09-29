@@ -57,7 +57,7 @@
 
 ---
 ### 📊  Projects
-** [sales-Excel-Project] (https://github.com/RehabAbdelrahman/Sales-Excel-Project) **
+**[sales-Excel-Project] (https://github.com/RehabAbdelrahman/Sales-Excel-Project)**
 - This project provides a detailed analysis of sales data using Excel and Power Query.
 
 
