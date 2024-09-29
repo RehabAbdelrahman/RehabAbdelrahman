@@ -91,3 +91,7 @@ I'm always excited to connect with other professionals and explore opportunities
 - 📧 [rehabelhag.business@gmail.com](mailto:rehabelhag.business@gmail.com)  
 - 💻 [GitHub](https://github.com/RehabAbdelrahman)
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Dark Mode Snake Animation" />
+</div>
+
