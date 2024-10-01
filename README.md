@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Rehab Abdelrahman!
 
-**HR Specialist | Data Analyst**
+**HR Associates | Data Analyst**
 
 
 
