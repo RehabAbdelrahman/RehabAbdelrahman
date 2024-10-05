@@ -1,13 +1,13 @@
 # 👋 Hi, I'm Rehab Abdelrahman!
 
-**HR Associates | Data Analyst**
+**HR Associates | Junior Data Analyst**
 
 
 
 ---
 
 ## 🌟 Profile
-💼 A detail-focused Data Analyst with a specialization in HR. I have strong abilities in collecting, analyzing, and interpreting employee data to support organizations in making data-driven decisions. I am passionate about leveraging my analytical, communication, and teamwork skills to drive success. eager to contribute to team success through data-driven insights and decision-making. My focus lies in **workforce analytics**, and I am committed to continuous learning and growth in the field of **Human Resources** and **Data Analysis**.
+💼 A detail-focused Junior Data Analyst with a specialization in HR. I have strong abilities in collecting, analyzing, and interpreting employee data to support organizations in making data-driven decisions. I am passionate about leveraging my analytical, communication, and teamwork skills to drive success. eager to contribute to team success through data-driven insights and decision-making. My focus lies in **workforce analytics**, and I am committed to continuous learning and growth in the field of **Human Resources** and **Data Analysis**.
 
 ---
 
