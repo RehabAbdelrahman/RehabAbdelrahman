@@ -7,7 +7,8 @@
 ---
 
 ## 🌟 Profile
-💼 A detail-focused Junior Data Analyst with a specialization in HR. I have strong abilities in collecting, analyzing, and interpreting employee data to support organizations in making data-driven decisions. I am passionate about leveraging my analytical, communication, and teamwork skills to drive success. eager to contribute to team success through data-driven insights and decision-making. My focus lies in **workforce analytics**, and I am committed to continuous learning and growth in the field of **Human Resources** and **Data Analysis**.
+💼 A junior data analyst with a focus on Excel and Power BI. I help small businesses, assessment centers, and outsourcing agencies turn HR data into clear, actionable insights that align workforce strategies with business goals. I’m passionate about using data to solve real HR challenges, improve decision-making, and create fair opportunities within organizations. Recently, I’ve developed HR dashboards that track key workforce metrics and supported projects that optimize talent management processes. My goal is to keep growing my skills in data analytics, combining technical expertise with a people-focused approach to make a measurable impact in the HR field.
+
 
 ---
 
