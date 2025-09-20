@@ -7,8 +7,7 @@
 ---
 
 ## 🌟 Profile
-💼 A junior data analyst with a focus on Excel and Power BI. I help small businesses, assessment centers, and outsourcing agencies turn HR data into clear, actionable insights that align workforce strategies with business goals. I’m passionate about using data to solve real HR challenges, improve decision-making, and create fair opportunities within organizations. Recently, I’ve developed HR dashboards that track key workforce metrics and supported projects that optimize talent management processes. My goal is to keep growing my skills in data analytics, combining technical expertise with a people-focused approach to make a measurable impact in the HR field.
-
+💼  A data-driven HR Specialist with a postgraduate diploma in Human Resource Management. With experience in data entry and a strong foundation in HR, I’ve recently expanded into HR Data Analytics, building expertise in Excel, Power Query, and workforce reporting. My top skills are data analysis, HR strategy, and process improvement. What sets me apart is my ability to bridge HR knowledge with analytics, turning data into actionable insights that help organizations improve performance, reduce turnover, and retain top talent. I’m passionate about helping businesses make smarter, people-focused decisions — I don’t just analyze numbers, I translate them into strategies that help organizations thrive.”
 
 ---
 
